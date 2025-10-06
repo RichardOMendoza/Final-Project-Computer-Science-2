@@ -1,1 +1,4 @@
-
+Problem Statement :
+Many schools struggle to effectively monitor and analyze student academic performances across different sections and subjects because sometimes there is just too much to be able to compute. Without clear insights, many teachers and staff dont know who to help so they can recognize trends and adjust their teaching method.
+This problem is important because getting to improve the student performance and providing targetted support can impact significantly on educational success and even a students well-being. Identifying the learning gaps helps school use resources more efficiently and imrpove the curriculum.
+The dataset of student grades across various subjects and sections provides valuable information that, when properly analyzed, can address this problem. By analyzing these grades, the project aims to uncover meaningful patterns and trends that educators can use to enhance student learning experiences.
